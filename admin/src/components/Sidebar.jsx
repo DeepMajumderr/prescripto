@@ -42,7 +42,7 @@ const SideBar = () => {
             <p className='hidden md:block'>Medicine List</p>
           </NavLink>
 
-          
+
         </ul>
       }
 
